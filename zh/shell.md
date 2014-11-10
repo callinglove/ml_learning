@@ -62,6 +62,42 @@ fi
 
 ### for语句
 
+for循环用法总结如下:
+
+1. for((i=1;i<=100;i++)); do echo $(expr $i \* $i); done (**注意\*两边的空格**)
+2. for i in $(seq 10 -1 1)
+3. for i in `ls`
+4. for in ${arr[@]}
+5. for in $*; do #$*是以"参数1 参数2 ..."的形式保存左右参数
+6. for file in /proc/sys/net/ipv4/conf/*/accept_redirects; do
+7. for i in f1 f2 f3; do
+8. for i in *.txt
+9. for in $(ls *.txt)
+10. datas="users data1 data2"; for d in $datas ; do
+11. for i in {1..10}
+12. for i in name{1..10}  #{name1 name2 ... name10}
+13. awk 'BEGIN{for(i=1;i<10;i++)print i}'
+
+for循环应用实例
+```shell
+#!/bin/bash
+#求100以内的质数     
+i=2      
+while [ $i -le 100 ];do         
+	ret=1          
+	for (( j=2;j<$i;j++ ));do      
+		if [ $(($i%$j)) -eq 0 ];then   
+			ret=0    
+			break        
+		fi          
+	done          
+	if [ $ret -eq 1 ];then             
+		echo -n "$i "         
+	fi         
+	i=$(( i+1 ))     
+done
+```
+
 ### shell数组
 
 在Bash中,数组变量有两种赋值方式:
