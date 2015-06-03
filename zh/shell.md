@@ -103,6 +103,22 @@ while [ $i -le 100 ];do
 done
 ```
 
+```shell
+#!/bin/bash
+#批量更改文件名后缀
+read -p "old extension:" oldext
+read -p "new extension:" newext
+read -p "The directory:" dir
+cd $dir
+for file in $(ls $dir | grep .$oldext)
+        do
+        name=$(ls $file | cut -d. -f1)
+        mv $file ${name}.$newext
+        echo "$name.$oldext ====> $name.$newext"
+        done
+echo "all files has been modified."
+```
+
 ### shell中(())双括号运算符
 
 在使用shell的逻辑运算符"[]"时,必须保证运算符与算术之间有空格.四则运算也只能借助let,expr等命令完成.以下是双括号"(())"语句在算数及赋值运算中的扩展。
