@@ -51,3 +51,4 @@
 ### 项目相关
 
 - [重构--改善既有代码的设计](http://wangchen.info/refactoring-cheat-sheet/)
+- [图说设计模式](http://design-patterns.readthedocs.org/zh_CN/latest/index.html)
