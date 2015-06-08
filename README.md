@@ -38,14 +38,14 @@
 - [python简明教程](http://www.kuqin.com/abyteofpython_cn/)
 ### C/C++
 
-- [Linux c一站式学习](http://akaedu.github.io/book/)(宋劲杉, 北京亚嵌教育研究中心)[带清单](http://docs.linuxtone.org/ebooks/C&CPP/c/)
+- [Linux c一站式学习](http://akaedu.github.io/book/)(宋劲杉, 北京亚嵌教育研究中心)|[带清单](http://docs.linuxtone.org/ebooks/C&CPP/c/)
 - [cplusplus](http://www.cplusplus.com/)
 
 ## 语言无关类
 
 ### 数据结构与算法
 
-- [程序员编程艺术:面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-by-July)[HTML版](http://taop.marchtea.com/)
+- [程序员编程艺术:面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-by-July)|[HTML版](http://taop.marchtea.com/)
 - [背包问题九讲](https://github.com/tianyicui/pack)
 
 ### 项目相关
