@@ -46,15 +46,15 @@
 
 ### 数据结构与算法
 
-- [程序员编程艺术:面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-by-July)|[HTML版](http://taop.marchtea.com/)
+- [程序员编程艺术:面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-by-July){:target="_blank"} | [HTML版](http://taop.marchtea.com/){:target="_blank"}
 - [背包问题九讲](https://github.com/tianyicui/pack)
 
 ### 项目相关
 
-- [重构--改善既有代码的设计](http://wangchen.info/refactoring-cheat-sheet/)
-- [图说设计模式](http://design-patterns.readthedocs.org/zh_CN/latest/index.html)
-- [Linux工具快速教程](http://linuxtools-rst.readthedocs.org/zh_CN/latest/)
+- [重构--改善既有代码的设计](http://wangchen.info/refactoring-cheat-sheet/){:target="_blank"}
+- [图说设计模式](http://design-patterns.readthedocs.org/zh_CN/latest/index.html){:target="_blank"}
+- [Linux工具快速教程](http://linuxtools-rst.readthedocs.org/zh_CN/latest/){:target="_blank"}
 
 ### 开源软件相关
 
-- [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
+- [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html){:target="_blank"}
