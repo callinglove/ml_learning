@@ -20,7 +20,8 @@
 - [语言无关类](#语言无关类)
   - [数据结构与算法](#数据结构与算法)
   - [操作系统](#操作系统) 
-  - [项目相关](#项目相关)  
+  - [项目相关](#项目相关)
+  - [开源软件相关](#开源软件相关)
   
 
 - 个人学习笔记
@@ -53,3 +54,7 @@
 - [重构--改善既有代码的设计](http://wangchen.info/refactoring-cheat-sheet/)
 - [图说设计模式](http://design-patterns.readthedocs.org/zh_CN/latest/index.html)
 - [Linux工具快速教程](http://linuxtools-rst.readthedocs.org/zh_CN/latest/)
+
+### 开源软件相关
+
+- [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
