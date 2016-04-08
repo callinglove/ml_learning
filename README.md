@@ -37,6 +37,8 @@
 
 ### python
 - [python简明教程](http://www.kuqin.com/abyteofpython_cn/)
+- [Scrapy 0.24 文档](http://scrapy-chs.readthedocs.org/zh_CN/0.24/index.html)---[Scrapy 0.25 文档](http://scrapy-chs.readthedocs.org/zh_CN/latest/)
+- [Elasticsearch 权威指南（中文版）](http://es.xiaoleilu.com/)---[gitbook](https://www.gitbook.com/book/looly/elasticsearch-the-definitive-guide-cn/details)
 ### C/C++
 
 - [Linux c一站式学习](http://akaedu.github.io/book/)(宋劲杉, 北京亚嵌教育研究中心)|[带清单](http://docs.linuxtone.org/ebooks/C&CPP/c/)
