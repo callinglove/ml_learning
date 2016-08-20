@@ -22,7 +22,8 @@
   - [操作系统](#操作系统) 
   - [项目相关](#项目相关)
   - [开源软件相关](#开源软件相关)
-  
+
+- [网站类](#网站类)
 
 - 个人学习笔记
   - [Linux shell学习笔记](./zh/shell.md)
@@ -42,7 +43,7 @@
 ### C/C++
 
 - [Linux c一站式学习](http://akaedu.github.io/book/)(宋劲杉, 北京亚嵌教育研究中心)|[带清单](http://docs.linuxtone.org/ebooks/C&CPP/c/)
-- [cplusplus](http://www.cplusplus.com/)
+- [cgdb中文手册](https://www.gitbook.com/book/leeyiw/cgdb-manual-in-chinese/details)
 
 ## 语言无关类
 
@@ -60,3 +61,8 @@
 ### 开源软件相关
 
 - [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
+
+### 网站类
+
+- [cplusplus](http://www.cplusplus.com/)
+- [cppreference](http://en.cppreference.com/w/)
