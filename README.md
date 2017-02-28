@@ -52,6 +52,10 @@
 - [程序员编程艺术:面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-by-July) | [HTML版](http://taop.marchtea.com/)
 - [背包问题九讲](https://github.com/tianyicui/pack)
 
+### 操作系统
+
+- [开源世界旅行手册](http://docs.huihoo.com/open-source/guide/)
+
 ### 项目相关
 
 - [重构--改善既有代码的设计](http://wangchen.info/refactoring-cheat-sheet/)
