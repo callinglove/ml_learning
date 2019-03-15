@@ -25,6 +25,8 @@
 
 - [网站类](#网站类)
 
+- [面试题](#面试题)
+
 - 个人学习笔记
   - [Linux shell学习笔记](./zh/shell.md)
 
@@ -72,3 +74,7 @@
 - [cplusplus](http://www.cplusplus.com/)
 - [cppreference](http://en.cppreference.com/w/)
 - [ibm开发者社区](https://www.ibm.com/developerworks/cn/)
+
+### 面试题
+
+- [2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
